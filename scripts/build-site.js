@@ -3,7 +3,7 @@ const path = require("path");
 
 const ROOT = path.resolve(__dirname, "..");
 const SITE_NAME = "SurfaceLine Systems";
-const SITE_URL = "https://www.example.com";
+const SITE_URL = "https://surface-finishing-lines.vercel.app";
 
 function ensureDir(filePath) {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
@@ -658,4 +658,3 @@ resourcePages.forEach((page) => writeFile(path.join(ROOT, page.slug, "index.html
 writeFile(path.join(ROOT, "404.html"), notFoundPage());
 writeFile(path.join(ROOT, "sitemap.xml"), sitemap());
 writeFile(path.join(ROOT, "robots.txt"), robots());
-

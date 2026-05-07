@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://www.example.com/</loc></url>
-  <url><loc>https://www.example.com/surface-finishing-lines/</loc></url>
-  <url><loc>https://www.example.com/shot-blasting-machines/</loc></url>
-  <url><loc>https://www.example.com/vibratory-finishing-equipment/</loc></url>
-  <url><loc>https://www.example.com/tumbling-machine-guide/</loc></url>
-  <url><loc>https://www.example.com/blasting-cabinet-systems/</loc></url>
-  <url><loc>https://www.example.com/surface-roughness-measurement/</loc></url>
-  <url><loc>https://www.example.com/abrasive-quality-control/</loc></url>
+  <url><loc>https://surface-finishing-lines.vercel.app/</loc></url>
+  <url><loc>https://surface-finishing-lines.vercel.app/surface-finishing-lines/</loc></url>
+  <url><loc>https://surface-finishing-lines.vercel.app/shot-blasting-machines/</loc></url>
+  <url><loc>https://surface-finishing-lines.vercel.app/vibratory-finishing-equipment/</loc></url>
+  <url><loc>https://surface-finishing-lines.vercel.app/tumbling-machine-guide/</loc></url>
+  <url><loc>https://surface-finishing-lines.vercel.app/blasting-cabinet-systems/</loc></url>
+  <url><loc>https://surface-finishing-lines.vercel.app/surface-roughness-measurement/</loc></url>
+  <url><loc>https://surface-finishing-lines.vercel.app/abrasive-quality-control/</loc></url>
 </urlset>
